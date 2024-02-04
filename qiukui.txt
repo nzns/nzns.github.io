@@ -1,5 +1,5 @@
 240204更新
-
+📡主力频道,#genre#
 CCTV-1,http://221.0.78.198:1681/hls/10201/index.m3u8
 CCTV-2,http://221.0.78.198:1681/hls/10202/index.m3u8
 CCTV-3,http://221.0.78.198:1681/hls/10203/index.m3u8
@@ -18,10 +18,10 @@ CCTV-14,http://221.0.78.198:1681/hls/10214/index.m3u8
 CCTV-15,http://221.0.78.198:1681/hls/10215/index.m3u8
 CGTN,http://221.0.78.198:1681/hls/10216/index.m3u8
 CCTV-17,http://221.0.78.198:1681/hls/10289/index.m3u8
-烟台新闻综合，http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07.m3u8
-烟台公共频道，http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700.m3u8
-烟台经济科技，http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261.m3u8
-烟台影视频道，http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
+烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07.m3u8
+烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700.m3u8
+烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261.m3u8
+烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
 山东卫视,http://221.0.78.198:1681/hls/10218/index.m3u8
 山东综艺,http://221.0.78.198:1681/hls/10220/index.m3u8
 山东影视,http://221.0.78.198:1681/hls/10219/index.m3u8
